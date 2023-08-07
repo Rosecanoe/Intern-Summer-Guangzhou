@@ -1,9 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T01:15:30.567Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.3" etag="1pzipmcwRqMqvTmf3jSE" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T01:30:38.625Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ojzMXBQJHTygSJK_bbck" version="21.6.3" type="github">
   <diagram name="第 1 页" id="sI3OFL7Fe5A5EuQB-tSg">
-    <mxGraphModel>
+    <mxGraphModel dx="1240" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--5" value="提交评估报告、&lt;br&gt;股东分红决议、&lt;br&gt;分红回单PDF" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZ7HFaREQp_Aib4HBqm--1" target="lZ7HFaREQp_Aib4HBqm--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--1" value="起草节点" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="120" y="256" width="100" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZ7HFaREQp_Aib4HBqm--2" target="lZ7HFaREQp_Aib4HBqm--1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--2" value="开始" style="ellipse;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="30" y="254" width="60" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZ7HFaREQp_Aib4HBqm--4" target="lZ7HFaREQp_Aib4HBqm--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--4" value="BG总裁审核" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="315" y="256" width="100" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZ7HFaREQp_Aib4HBqm--6" target="lZ7HFaREQp_Aib4HBqm--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--6" value="首席投资官审核" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="450" y="256" width="95" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lZ7HFaREQp_Aib4HBqm--8" target="lZ7HFaREQp_Aib4HBqm--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lZ7HFaREQp_Aib4HBqm--8" target="lZ7HFaREQp_Aib4HBqm--13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lZ7HFaREQp_Aib4HBqm--8" target="lZ7HFaREQp_Aib4HBqm--14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lZ7HFaREQp_Aib4HBqm--8" target="lZ7HFaREQp_Aib4HBqm--15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--8" value="董事长办公室审核" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="583" y="256" width="47" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZ7HFaREQp_Aib4HBqm--12" target="lZ7HFaREQp_Aib4HBqm--22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--12" value="法务审批&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="700" y="190" width="100" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZ7HFaREQp_Aib4HBqm--13" target="lZ7HFaREQp_Aib4HBqm--22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--13" value="财务审批" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="700" y="256" width="100" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lZ7HFaREQp_Aib4HBqm--14" target="lZ7HFaREQp_Aib4HBqm--22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--14" value="税务审批" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="700" y="320" width="100" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lZ7HFaREQp_Aib4HBqm--15" target="lZ7HFaREQp_Aib4HBqm--22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--15" value="知识产权审批" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="700" y="387.5" width="100" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--21" value="总经理审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lZ7HFaREQp_Aib4HBqm--22" target="lZ7HFaREQp_Aib4HBqm--21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZ7HFaREQp_Aib4HBqm--22" target="lZ7HFaREQp_Aib4HBqm--31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--22" value="下一审核流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="256" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZ7HFaREQp_Aib4HBqm--31" target="lZ7HFaREQp_Aib4HBqm--32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--31" value="总经理审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--32" value="董事长审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="387.5" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
