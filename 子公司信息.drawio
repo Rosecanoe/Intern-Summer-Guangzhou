@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T01:50:48.599Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="XcG84-lMZ0Ivs1EY3lqy" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T01:53:07.787Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1R0cPgFvHgLOR8uVPNH-" version="21.6.3" type="github">
   <diagram name="第 1 页" id="sI3OFL7Fe5A5EuQB-tSg">
     <mxGraphModel dx="1240" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
       <root>
@@ -131,13 +131,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lZ7HFaREQp_Aib4HBqm--55" value="抄送财务相关方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="711.5" y="498.75" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="498.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZ7HFaREQp_Aib4HBqm--70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZ7HFaREQp_Aib4HBqm--57" target="lZ7HFaREQp_Aib4HBqm--69">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="607" y="580" />
-              <mxPoint x="467" y="580" />
+              <mxPoint x="607" y="600" />
+              <mxPoint x="467" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -157,8 +157,9 @@
         <mxCell id="lZ7HFaREQp_Aib4HBqm--78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lZ7HFaREQp_Aib4HBqm--57" target="lZ7HFaREQp_Aib4HBqm--77">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="607" y="580" />
-              <mxPoint x="770" y="580" />
+              <mxPoint x="607" y="600" />
+              <mxPoint x="770" y="600" />
+              <mxPoint x="770" y="730" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -177,24 +178,39 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lZ7HFaREQp_Aib4HBqm--69" value="IT高级负责人审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="407" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZ7HFaREQp_Aib4HBqm--81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lZ7HFaREQp_Aib4HBqm--72" target="lZ7HFaREQp_Aib4HBqm--77">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="467" y="840" />
+              <mxPoint x="770" y="840" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="lZ7HFaREQp_Aib4HBqm--72" value="IT系统调整统筹人&lt;br&gt;处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="407" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="407" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZ7HFaREQp_Aib4HBqm--80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.648;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lZ7HFaREQp_Aib4HBqm--74" target="lZ7HFaREQp_Aib4HBqm--77">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="607" y="760" as="targetPoint" />
+            <mxPoint x="607" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="607" y="770" />
+              <mxPoint x="710" y="770" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lZ7HFaREQp_Aib4HBqm--74" value="EBS调整" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="547" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="546.5" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZ7HFaREQp_Aib4HBqm--77" target="lZ7HFaREQp_Aib4HBqm--82">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lZ7HFaREQp_Aib4HBqm--77" value="eHR调整" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="711.5" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZ7HFaREQp_Aib4HBqm--82" value="结束" style="ellipse;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="1023" y="732" width="60" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
